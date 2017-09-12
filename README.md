@@ -391,7 +391,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 # Projects Using Vue.js
 
 ### Open Source
-
+ - [vue2-admin-grace](https://github.com/Alex-0407/vue2-admin-grace) - vue2 + element-ui + axios 构建的后台管理系统，自适应多种屏幕大小，所有数据都是mock server处理的，所以只需下载即可运行，非常方便就可以替换自己的rest api接口.
  - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
  - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
  - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
